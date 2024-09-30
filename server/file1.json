@@ -1,1 +1,12 @@
-This is the json file
+{
+    "devices": 
+        {
+            "id": "device1",
+            "type": "sensor",
+            "status": "active",
+            "data": {
+                "temperature": 22.5,
+                "humidity": 60
+            }
+        }
+}
